@@ -6,8 +6,8 @@ A machine learning project aimed at predicting stock prices using historical dat
 
 ##  Dataset
 
-- **File Used**: `Stocks data.csv`
-- **Source**: Custom dataset containing historical stock price data
+- **File Used**: Stock exchange data
+- **Source**: Kaggle ([https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data])
 - **Columns Included**:
   - `Date`
   - `Open`
