@@ -77,9 +77,4 @@ Make sure you have the following installed:
   - `seaborn`
   - `scikit-learn`
 
-###  Steps
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/pawarprerna/Stockmarket-prediction.git
-   cd Stockmarket-prediction
